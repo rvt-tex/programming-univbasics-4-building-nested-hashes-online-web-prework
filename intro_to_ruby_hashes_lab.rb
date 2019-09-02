@@ -5,17 +5,14 @@ def base_hash = {
       :Germany => {},
       :USA => {}
    },
-   :broward => {
-      :patriarch => {},
-      :matriarch => {},
-      :heroine => {},
-      :heroine_friends => []
+   :Caribbean_island => {
+      :Bahamas => {},
+      :Cayman => {},
+      :Barbados => {},
+      :Jamaica => {}
    }
 }
 
-  
-  
-  
   # Remember implicit return! We're returning this new Hash _without_ the
   # keyword "return." Nice and neat.
 	{}
