@@ -26,10 +26,10 @@ def monopoly_with_second_tier
       :USA => {population: "327.2 million", language: "English"}
    },
    :Caribbean_islands => {
-      :Bahamas => {name: "Lord Capulet", age: "50"},
-      :Cayman => {name: "Lady Capulet", age: "51"},
-      :Barbados => {name: "Juliet", age: "15", status: "alive"},
-      :Jamaica => {}
+      :Bahamas => {population: "396 thousand", language: "English"},
+      :Cayman => {population: "61.6 thousand", language: "English"},
+      :Barbados => {population: "286 thousand", language: "English"},
+      :Jamaica => {population: "2.9 million", language: "English"}
    }
 }
   # When you start writing the implementation for this method, copy the Hash
