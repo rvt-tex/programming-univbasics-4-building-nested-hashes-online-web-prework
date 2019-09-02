@@ -1,5 +1,18 @@
-def base_hash 
-  
+def base_hash = {
+   :world_countries => {
+      :China => {},
+      :England => {},
+      :Germany => {},
+      :USA => {}
+   },
+   :broward => {
+      :patriarch => {},
+      :matriarch => {},
+      :heroine => {},
+      :heroine_friends => []
+   }
+}
+
   
   
   
